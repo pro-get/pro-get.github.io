@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+body{
+  background: #202020;
+  color: #efefef;
+  font-family: Ubuntu Mono;
+}
+a:link {
+  color: #fff;
+  text-decoration:none;
+}
+a:visited {
+  color: #B9B9B9;
+  text-decoration:none;
+}
+a:hover {
+  color: #0084ff;
+  text-decoration:none;
+}
+a:active {
+  color: deepskyblue;
+  text-decoration:none;
+}

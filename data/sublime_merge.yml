@@ -1,0 +1,23 @@
+sublime_merge:
+  latest:
+    32bit:
+      installer:
+      - ~[Sublime HQ is dropping support for x86]
+      portable:
+      - ~[Sublime HQ is dropping support for x86]
+    64bit:
+      installer:
+      - https://download.sublimetext.com/sublime_merge_build_2059_x64_setup.exe
+      portable:
+      - https://download.sublimetext.com/sublime_merge_build_2059_x64.zip
+  v2:
+    32bit:
+      installer:
+      - ~[Sublime HQ is dropping support for x86]
+      portable:
+      - ~[Sublime HQ is dropping support for x86]
+    64bit:
+      installer:
+      - https://download.sublimetext.com/sublime_merge_build_2059_x64_setup.exe
+      portable:
+      - https://download.sublimetext.com/sublime_merge_build_2059_x64.zip

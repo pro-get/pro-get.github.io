@@ -1,0 +1,61 @@
+sublime_text:
+  latest:
+    32bit:
+      installer:
+      - https://download.sublimetext.com/sublime_text_build_4107_x32_setup.exe
+      - ~[Sublime HQ is dropping support for 32 bit platforms.]
+      portable:
+      - ~[No links avaliable]
+      - ~[Sublime HQ is dropping support for 32 bit platforms.]
+    64bit:
+      installer:
+      - https://download.sublimetext.com/sublime_text_build_4113_x64_setup.exe
+      - https://download.sublimetext.com/sublime_text_build_4113_x64_setup.exe
+      portable:
+      - https://download.sublimetext.com/sublime_text_build_4113_x64.zip
+      - https://download.sublimetext.com/sublime_text_build_4113_x64.zip
+  v4:
+    32bit:
+      installer:
+      - https://download.sublimetext.com/sublime_text_build_4113_x32_setup.exe
+      - ~[Sublime HQ is dropping support for 32 bit platforms.]
+      portable:
+      - ~[No links avaliable]
+      - ~[Sublime HQ is dropping support for 32 bit platforms.]
+    64bit:
+      installer:
+      - https://download.sublimetext.com/sublime_text_build_4107_x64_setup.exe
+      - https://download.sublimetext.com/sublime_text_build_4106_x64_setup.exe
+      portable:
+      - https://download.sublimetext.com/sublime_text_build_4107_x64.zip
+      - https://download.sublimetext.com/sublime_text_build_4106_x64.zip
+  v3:
+    32bit:
+      installer:
+      - https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe
+      - ~[Sublime Text 4 has been released]
+      portable:
+      - https://download.sublimetext.com/Sublime%20Text%20Build%203211.zip
+      - ~[Sublime Text 4 has been released]
+    64bit:
+      installer:
+      - https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe
+      - ~[Sublime Text 4 has been released]
+      portable:
+      - https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64.zip
+      - ~[Sublime Text 4 has been released]
+  v2:
+    32bit:
+      installer:
+      - https://download.sublimetext.com/Sublime%20Text%202.0.2a%20Setup.exe
+      - ~[Sublime Text 4 has been released]
+      portable:
+      - https://download.sublimetext.com/Sublime%20Text%202.0.2.zip
+      - ~[Sublime Text 4 has been released]
+    64bit:
+      installer:
+      - https://download.sublimetext.com/Sublime%20Text%202.0.2a%20x64%20Setup.exe
+      - ~[Sublime Text 4 has been released]
+      portable:
+      - https://download.sublimetext.com/Sublime%20Text%202.0.2%20x64.zip
+      - ~[Sublime Text 4 has been released]

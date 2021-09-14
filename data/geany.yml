@@ -1,0 +1,22 @@
+geany:
+  latest:
+    32bit:
+      installer:
+        - https://github.com/geany/geany/releases/download/1.37.1/geany-1.37.1_setup.exe
+    64bit:
+      installer:
+        - https://github.com/geany/geany/releases/download/1.37.1/geany-1.37.1_setup.exe
+  v1.37:
+    32bit:
+      installer:
+      - https://github.com/geany/geany/releases/download/1.37.1/geany-1.37.1_setup.exe
+    64bit:
+      installer:
+      - https://github.com/geany/geany/releases/download/1.37.1/geany-1.37.1_setup.exe
+  v1.36:
+    32bit:
+      installer:
+      - https://github.com/geany/geany/releases/download/1.36.0/geany-1.36_setup.exe
+    64bit:
+      installer:
+      - https://github.com/geany/geany/releases/download/1.36.0/geany-1.36_setup.exe

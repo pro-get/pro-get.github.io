@@ -1,0 +1,29 @@
+notepad++:
+  latest:
+    32bit:
+      installer:
+        - https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.exe
+    64bit:
+      installer:
+        - https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.x64.exe
+  v8.1.4:
+    32bit:
+      installer:
+      - https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.exe
+    64bit:
+      installer:
+      - https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.x64.exe
+  v7.9.5:
+    32bit:
+      installer:
+      - https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.5/npp.7.9.5.Installer.exe
+    64bit:
+      installer:
+      - https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.5/npp.7.9.5.Installer.x64.exe
+  v6.9:
+    32bit:
+      installer:
+      - https://notepad-plus-plus.org/repository/6.x/6.9/npp.6.9.Installer.exe
+    64bit:
+      installer:
+      - ~[No x64 support in this version]

@@ -1,0 +1,29 @@
+micro:
+  latest:
+    32bit:
+      installer:
+        - https://github.com/zyedidia/micro/releases/download/v2.0.10/micro-2.0.10-win32.zip
+    64bit:
+      installer:
+        - https://github.com/zyedidia/micro/releases/download/v2.0.10/micro-2.0.10-win64.zip
+  v2:
+    32bit:
+      installer:
+      - https://github.com/zyedidia/micro/releases/download/v2.0.10/micro-2.0.10-win32.zip
+    64bit:
+      installer:
+      - https://github.com/zyedidia/micro/releases/download/v2.0.10/micro-2.0.10-win64.zip
+  v1.4:
+    32bit:
+      installer:
+      - https://github.com/zyedidia/micro/releases/download/v1.4.1/micro-1.4.1-win32.zip
+    64bit:
+      installer:
+      - https://github.com/zyedidia/micro/releases/download/v1.4.1/micro-1.4.1-win64.zip
+  v1:
+    32bit:
+      installer:
+      - https://github.com/zyedidia/micro/releases/download/v1.0/micro-1.0-win32.zip
+    64bit:
+      installer:
+      - https://github.com/zyedidia/micro/releases/download/v1.0/micro-1.0-win64.zip

@@ -1,0 +1,29 @@
+lua:
+  latest:
+    32bit:
+      installer:
+        - https://proget.whms.repl.co/extended/lua/lua-5.4.2_Win32_bin.zip
+    64bit:
+      installer:
+        - https://proget.whms.repl.co/extended/lua/lua-5.4.2_Win64_bin.zip
+  v5:
+    32bit:
+      installer:
+        - https://proget.whms.repl.co/extended/lua/lua-5.4.2_Win32_bin.zip
+    64bit:
+      installer:
+        - https://proget.whms.repl.co/extended/lua/lua-5.4.2_Win64_bin.zip
+  v4:
+    32bit:
+      installer:
+        - https://proget.whms.repl.co/extended/lua/lua4_0_Win32_bin.tar.gz
+    64bit:
+      installer:
+        - ~[No support for x64 in this version]
+  v3:
+    32bit:
+      installer:
+        - https://proget.whms.repl.co/extended/lua/lua3_2_Win32_bin.tar.gz
+    64bit:
+      installer:
+        - ~[No support for x64 in this version]

@@ -1,0 +1,15 @@
+pencil2d:
+  latest:
+    32bit:
+      installer:
+        - https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-win32-0.6.6.zip
+    64bit:
+      installer:
+        - https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-win64-0.6.6.zip
+  v0.66.6:
+    32bit:
+      installer:
+      - https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-win32-0.6.6.zip
+    64bit:
+      installer:
+      - https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-win64-0.6.6.zip

@@ -1,0 +1,77 @@
+python:
+  latest:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2.exe
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe
+  v3.10:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2.exe
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.10.0/python-3.10.0rc2-amd64.exe
+  v3.9:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.9.7/python-3.9.7.exe
+      portable:
+      - https://www.python.org/ftp/python/3.9.7/python-3.9.7-embed-win32.zip
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe
+      portable:
+      - https://www.python.org/ftp/python/3.9.7/python-3.9.7-embed-amd64.zip
+  v3.8:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe
+      portable:
+      - https://www.python.org/ftp/python/3.8.10/python-3.8.10-embed-win32.zip
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
+      portable:
+      - https://www.python.org/ftp/python/3.8.10/python-3.8.10-embed-amd64.zip
+  v3.7:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.7.9/python-3.7.9.exe
+      portable:
+      - https://www.python.org/ftp/python/3.7.9/python-3.7.9-embed-win32.zip
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
+      portable:
+      - https://www.python.org/ftp/python/3.7.9/python-3.7.9-embed-amd64.zip
+  v3.6:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.6.8/python-3.6.8.exe
+      portable:
+      - https://www.python.org/ftp/python/3.6.8/python-3.6.8-embed-win32.zip
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe
+      portable:
+      - https://www.python.org/ftp/python/3.6.8/python-3.6.8-embed-amd64.zip
+  v3.5:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.5.4/python-3.5.4.exe
+      portable:
+      - https://www.python.org/ftp/python/3.5.4/python-3.5.4-embed-win32.zip
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.5.4/python-3.5.4-amd64.exe
+      portable:
+      - https://www.python.org/ftp/python/3.5.4/python-3.5.4-embed-amd64.zip
+  v3.4:
+    32bit:
+      installer:
+      - https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
+    64bit:
+      installer:
+      - https://www.python.org/ftp/python/3.4.4/python-3.4.4.amd64.msi

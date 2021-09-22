@@ -15,11 +15,11 @@ geany          | versions: v1.37, 1.36
 lua            | versions: v5, v4, v3
 micro          | versions: v2, v1.4, v1
 notepad++      | versions: v8.1.4, v7.9.5, v6.9
-pencil2d       | versions: v0.66.6
+pencil2d       | versions: v0.6.6
 python         | versions: v3.10, v3.9, v3.8, v3.7, v3.6, v3.5, v3.4
 sublime_text   | versions: v4, v3, v2
 sublime_merge  | versions: v2
 wox            | versions: v1.1, v1.2, v1.3, v1.4
 
-List updated on 22nd September 2021 (11:43 GMT)
+List updated on 22nd September 2021 (11:57 GMT)
 ```

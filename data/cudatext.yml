@@ -2,14 +2,15 @@ cudatext:
   latest:
     32bit:
       installer:
-        - https://pro-get.github.io/extended/cudatext/cudatext-win-x32-1.143.0.0.zip
+        - https://www.fosshub.com/CudaText-old.html?dwl=cudatext-win-x32-1.143.0.0.zip
     64bit:
       installer:
-        - https://pro-get.github.io/extended/cudatext/cudatext-win-x64-1.143.0.0.zip
+        - https://www.fosshub.com/CudaText-old.html?dwl=cudatext-win-x64-1.143.0.0.zip
+
   v1.143:
     32bit:
       installer:
-      - https://pro-get.github.io/extended/cudatext/cudatext-win-x32-1.143.0.0.zip
+      - https://www.fosshub.com/CudaText-old.html?dwl=cudatext-win-x32-1.143.0.0.zip
     64bit:
       installer:
-      - https://pro-get.github.io/extended/cudatext/cudatext-win-x64-1.143.0.0.zip
+      - https://www.fosshub.com/CudaText-old.html?dwl=cudatext-win-x64-1.143.0.0.zip

@@ -1,0 +1,29 @@
+cmder:
+  latest:
+    32bit:
+      installer:
+        - https://github.com/cmderdev/cmder/releases/download/v1.3.18/cmder.7z
+    64bit:
+      installer:
+        - https://github.com/cmderdev/cmder/releases/download/v1.3.18/cmder.7z
+  v1.3.18:
+    32bit:
+      installer:
+        - https://github.com/cmderdev/cmder/releases/download/v1.3.18/cmder.7z
+    64bit:
+      installer:
+        - https://github.com/cmderdev/cmder/releases/download/v1.3.18/cmder.7z
+  v1.2.9:
+    32bit:
+      installer:
+      - https://github.com/cmderdev/cmder/releases/download/v1.2.9/cmder.7z
+    64bit:
+      installer:
+      - https://github.com/cmderdev/cmder/releases/download/v1.2.9/cmder.7z
+  v1.1.4.1:
+    32bit:
+      installer:
+      - https://github.com/cmderdev/cmder/releases/download/v1.1.4.1/cmder.7z
+    64bit:
+      installer:
+      - https://github.com/cmderdev/cmder/releases/download/v1.1.4.1/cmder.7z

@@ -1,0 +1,15 @@
+win_builds:
+  latest:
+    32bit:
+      installer:
+        - http://win-builds.org/1.5.0/win-builds-1.5.0.exe
+    64bit:
+      installer:
+        - http://win-builds.org/1.5.0/win-builds-1.5.0.exe
+  v1.5.0:
+    32bit:
+      installer:
+      - http://win-builds.org/1.5.0/win-builds-1.5.0.exe
+    64bit:
+      installer:
+      - http://win-builds.org/1.5.0/win-builds-1.5.0.exe

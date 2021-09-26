@@ -1,0 +1,15 @@
+cygwin:
+  latest:
+    32bit:
+      installer:
+        - https://pro-get.github.io/extended/cygwin/cygwin-3.1.4-setup-x86.exe
+    64bit:
+      installer:
+        - https://pro-get.github.io/extended/cygwin/cygwin-3.1.4-setup-x86_x64.exe
+  v3.1.4:
+    32bit:
+      installer:
+        - https://pro-get.github.io/extended/cygwin/cygwin-3.1.4-setup-x86.exe
+    64bit:
+      installer:
+        - https://pro-get.github.io/extended/cygwin/cygwin-3.1.4-setup-x86_x64.exe

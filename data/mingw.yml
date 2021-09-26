@@ -1,0 +1,15 @@
+mingw:
+  latest:
+    32bit:
+      installer:
+        - https://pro-get.github.io/extended/mingw/mingw-5.1.6.exe
+    64bit:
+      installer:
+        - https://pro-get.github.io/extended/mingw/mingw-5.1.6.exe
+  v5.1.6:
+    32bit:
+      installer:
+        - https://pro-get.github.io/extended/mingw/mingw-5.1.6.exe
+    64bit:
+      installer:
+        - https://pro-get.github.io/extended/mingw/mingw-5.1.6.exe

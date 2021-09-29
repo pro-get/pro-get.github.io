@@ -1,5 +1,5 @@
 # pro-get.github.io
-The repo that has the data for downloads..
+The repo that has the data for downloads in [Proget](https://pypi.org/projects/proget)
 
 ### Want your software too on Proget!?
 \> open a new issue with this name: `(add) <your_software_name>` and in the contents give links to releases and the code repository!

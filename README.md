@@ -4,7 +4,7 @@ This repo has the data for downloads in [Proget](https://pypi.org/projects/proge
 currently 15 softwares are there!
 
 ### Want your software too on Proget!?
-\> open a new issue with this name: `(add) <your_software_name>` and in the contents give links to releases and the code repository!
+\then> open a new issue with this name: `(add) <your_software_name>` and in the contents give links to releases and the code repository!
 
 and your software will be added!
 
